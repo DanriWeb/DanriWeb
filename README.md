@@ -1,6 +1,6 @@
 <div align="center">
 
-![Animation](./assets/gifs/animation.gif)
+![Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29xbWc4ZTV1emhvb2k0NmMxMTNpZ250dGRsYjc4dThlM2VvbzA0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)
 
 # 👋 Hello, I'm Danri
 
