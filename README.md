@@ -32,4 +32,11 @@
 ![SCSS](https://img.shields.io/badge/SCSS-FFFFFF?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=0d1117)
 ![Tailwind](https://img.shields.io/badge/Tailwind-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=0d1117)
 
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=30&duration=1000&pause=4000&color=3B82F6&background=FFFFFF00&center=true&vCenter=true&width=550&height=40&lines=CONTACTS)](https://git.io/typing-svg)
+
+[![Telegram](https://img.shields.io/badge/danriweb__online-3B82F6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/danriweb_online)
+[![Email](https://img.shields.io/badge/danri.web@gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:danri.web@gmail.com)
+
 </div>
