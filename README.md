@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src="./assets/gifs/animation.mp4" width="100%" autoplay loop muted playsinline></video>
+![Animation](./assets/gifs/animation_hq.gif)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=50&pause=1000&color=D3DEEE&center=true&vCenter=true&width=550&height=65&lines=I'm+Danri" alt="Typing SVG" /></a>
 
