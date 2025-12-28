@@ -29,7 +29,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=30&duration=1000&pause=4000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=550&height=40&lines=STYLING)](https://git.io/typing-svg)
 
-![SCSS](https://img.shields.io/badge/SCSS-FFFFFF?style=for-the-badge&logo=sass&logoColor=0d1117&labelColor=0d1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=0d1117&labelColor=0d1117)
+![SCSS](https://img.shields.io/badge/SCSS-FFFFFF?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=0d1117)
+![Tailwind](https://img.shields.io/badge/Tailwind-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=0d1117)
 
 </div>
