@@ -1,10 +1,10 @@
 <div align="center">
 
-![Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29xbWc4ZTV1emhvb2k0NmMxMTNpZ250dGRsYjc4dThlM2VvbzA0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif)
+<video src="./assets/gifs/animation.mp4" width="100%" autoplay loop muted playsinline></video>
 
-# 👋 Hello, I'm Danri
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=50&pause=1000&color=D3DEEE&center=true&vCenter=true&width=550&height=65&lines=I'm+Danri" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arturito+Slab&size=30&pause=1000&color=D3DEEE&center=true&vCenter=true&width=550&height=65&lines=FRONTEND+DEVELOPER;React+%7C+Next+%7C+TS+%7C+Redux+%7C+Zustand" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=40&duration=2000&pause=200&color=FFFFFF&center=true&vCenter=true&width=550&height=65&lines=FRONTEND+DEVELOPER;Next.js%2C+Redux%2FZustand%2C+Tailwind" alt="Typing SVG" /></a>
 
 </div>
 
