@@ -20,7 +20,6 @@ Frontend Engineer specializing in **high-performance E-commerce** and product-or
 ### 👓 Experience
 
 - **Product & Business**: I focus on metrics that directly impact conversion and sales (Lighthouse, Core Web Vitals) in large-scale E-commerce projects.
-- **Architecture**: I use Feature-Sliced Design (FSD) to keep complex online stores predictable, maintainable, and easy to scale.
 - **Solutions-Driven**: I don't just write code — I solve business problems by building user journeys that keep customers engaged.
 
 ### 🔭 Goals
@@ -55,7 +54,7 @@ Frontend Engineer specializing in **high-performance E-commerce** and product-or
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=30&duration=1000&pause=4000&color=FFFFFF&background=FFFFFF00&width=550&height=40&lines=CONTACTS)](https://git.io/typing-svg)
 
-[![Telegram](https://img.shields.io/badge/danriweb__online-3B82F6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/danriweb_online)
-[![Email](https://img.shields.io/badge/dev@danri--web.ru-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dev@danri-web.ru)
+[![Telegram](https://img.shields.io/badge/danriweb-3B82F6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/danriweb)
+[![Email](https://img.shields.io/badge/dev@danri.web@gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dev@danri.web@gmail.com)
 
 </div>
