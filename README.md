@@ -55,6 +55,6 @@ Frontend Engineer specializing in **high-performance E-commerce** and product-or
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=30&duration=1000&pause=4000&color=FFFFFF&background=FFFFFF00&width=550&height=40&lines=CONTACTS)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/danriweb-3B82F6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/danriweb)
-[![Email](https://img.shields.io/badge/dev@danri.web@gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dev@danri.web@gmail.com)
+[![Email](https://img.shields.io/badge/danri.web@gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:danri.web@gmail.com)
 
 </div>
